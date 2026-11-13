@@ -1,0 +1,6 @@
+{
+  "name": "English in My World: Constructivist VLE",
+  "description": "Interactive Constructivist Virtual Learning Environment for teenagers to master everyday English through authentic tasks, games, collaboration, and creative digital projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
